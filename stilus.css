@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+h5 {
+    border: 1px solid black;
+}
+.kedvenc {
+    text-align: center;
+    border: 1px solid black;
+}
